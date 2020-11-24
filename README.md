@@ -10,7 +10,9 @@
 ### Search
 1. [DuckDuckGo](https://duckduckgo.com/)
 
-### Social Media
+## Social Media
+
+### Facebook Alternatives
 - [Minds](https://www.minds.com/)
 - [MeWe](https://mewe.com/)
 - [Parler](https://parler.com/)
@@ -18,3 +20,11 @@
 Articles
 - [Fed Up With Facebook? Here Are 5 Alternatives](https://www.maketecheasier.com/facebook-alternatives-social-networks/)
 
+### Twitter Alternatives
+- [Mastodon](https://mastodon.online/about)
+- [Gab](https://gab.com/)
+
+### YouTube Alternatives
+- [Bitchute](https://www.bitchute.com/)
+- [Dailymotion](https://www.dailymotion.com/us)
+- [D.tube](https://d.tube/)
