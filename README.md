@@ -38,6 +38,9 @@ Articles
 - [Voat](https://voat.co/)
 - [Poal](https://poal.co/all/new)
 
+### Messenger Services
+- [Signal](https://www.signal.org/) - end to end encryption, validate security code with friend, iOS/Android/Mac/Windows
+
 
 ### Email Alternatives
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
