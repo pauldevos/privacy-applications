@@ -37,4 +37,4 @@ Articles
 
 ### Email Alternatives
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
-- [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web
+- [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
