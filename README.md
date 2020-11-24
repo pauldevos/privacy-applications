@@ -41,7 +41,7 @@ Articles
 
 ### Messenger Services
 - [Signal](https://www.signal.org/) - end to end encryption, validate security code with friend, iOS/Android/Mac/Windows
-
+- [Telegram](https://telegram.org/)
 
 ### Email Alternatives
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
@@ -49,4 +49,7 @@ Articles
 
 ### Password Managers
 - [1password](https://1password.com/)
+
+### Blogging Platform
+- [Steemit](https://steemit.com/)
 
