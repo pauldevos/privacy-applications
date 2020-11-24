@@ -11,6 +11,10 @@
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Startpage](https://www.startpage.com/)
 
+### Browser Cookie and Ad Blockers
+- [Adblock Plus](https://adblockplus.org/)
+- [uBlockOrigin](https://ublockorigin.com/)
+
 ## Social Media
 
 ### Facebook Alternatives
@@ -38,3 +42,4 @@ Articles
 ### Email Alternatives
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
 - [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
+
