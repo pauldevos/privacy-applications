@@ -46,3 +46,6 @@ Articles
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
 - [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
 
+### Password Managers
+- [1password](https://1password.com/)
+
