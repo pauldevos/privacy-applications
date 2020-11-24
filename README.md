@@ -30,6 +30,7 @@ Articles
 - [Gab](https://gab.com/)
 
 ### YouTube Alternatives
+- [Rumble](https://rumble.com/)
 - [Bitchute](https://www.bitchute.com/)
 - [Dailymotion](https://www.dailymotion.com/us)
 - [D.tube](https://d.tube/)
