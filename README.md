@@ -1,6 +1,6 @@
 # privacy-applications
 
-
+## Privacy Focused Apps
 
 ### Web Browser
 - [Brave](https://brave.com/) - has iOS, Android, Mac, Windows, Android
@@ -15,7 +15,24 @@
 - [Adblock Plus](https://adblockplus.org/)
 - [uBlockOrigin](https://ublockorigin.com/)
 
-## Social Media
+### Messenger Services
+- [Signal](https://www.signal.org/) - end to end encryption, validate security code with friend, iOS/Android/Mac/Windows
+- [Telegram](https://telegram.org/)
+
+### Group Messenger (Slack) Alternatives
+- [Element](https://element.io/)
+
+### Email Alternatives
+- [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
+- [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
+
+
+### Password Managers
+- [1password](https://1password.com/)
+
+------------
+
+## Free Speech, Little to No Censorship (Until there isn't)
 
 ### Facebook Alternatives
 - [Minds](https://www.minds.com/)
@@ -38,20 +55,6 @@ Articles
 ### Reddit Alternatives
 - [Voat](https://voat.co/)
 - [Poal](https://poal.co/all/new)
-
-### Messenger Services
-- [Signal](https://www.signal.org/) - end to end encryption, validate security code with friend, iOS/Android/Mac/Windows
-- [Telegram](https://telegram.org/)
-
-### Group Messenger (Slack) Alternatives
-- [Element](https://element.io/)
-
-### Email Alternatives
-- [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
-- [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
-
-### Password Managers
-- [1password](https://1password.com/)
 
 ### Blogging Platform
 - [Steemit](https://steemit.com/)
