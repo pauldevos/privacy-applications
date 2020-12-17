@@ -53,3 +53,8 @@
 ### Blogging Platform
 - [Steemit](https://steemit.com/)
 
+
+## Home Automation, Gadgets
+
+### Home Automation
+- [Home Assistant](https://www.home-assistant.io/)
