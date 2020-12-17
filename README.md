@@ -1,5 +1,3 @@
-# privacy-applications
-
 ## Privacy Focused Apps
 
 ### Web Browser
