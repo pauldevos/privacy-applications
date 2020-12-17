@@ -1,4 +1,4 @@
-## Privacy Focused Apps
+## Privacy Apps
 
 ### Web Browser
 - [Brave](https://brave.com/)** - has iOS, Android, Mac, Windows, Android
