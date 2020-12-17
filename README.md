@@ -3,7 +3,7 @@
 ## Privacy Focused Apps
 
 ### Web Browser
-- **[Brave](https://brave.com/) - has iOS, Android, Mac, Windows, Android
+- [Brave](https://brave.com/)** - has iOS, Android, Mac, Windows, Android
 - **[FireFox](https://www.mozilla.org/en-US/firefox/new/) - great for cutomized security, so you will need to know what to block, use, etc.
 - [Safari (Mac Only)](https://www.apple.com/safari/) - safe on a Mac.
 
