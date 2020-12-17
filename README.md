@@ -43,6 +43,9 @@ Articles
 - [Signal](https://www.signal.org/) - end to end encryption, validate security code with friend, iOS/Android/Mac/Windows
 - [Telegram](https://telegram.org/)
 
+### Group Messenger (Slack) Alternatives
+- [Element](https://element.io/)
+
 ### Email Alternatives
 - [ProtonMail](https://protonmail.com/) - 500 MB free, encrypted, iOS/Android/Web
 - [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
