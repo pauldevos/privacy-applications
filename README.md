@@ -1,5 +1,7 @@
 ## Privacy Apps
 
+=> `**` = Personal recommendations
+
 ### Web Browser
 - [Brave](https://brave.com/)** - has iOS, Android, Mac, Windows, Android
 - [FireFox](https://www.mozilla.org/en-US/firefox/new/)** - great for cutomized security, so you will need to know what to block, use, etc.
@@ -26,8 +28,6 @@
 
 ### Password Managers
 - [1password](https://1password.com/)** - password manager for family accounts
-
-=> `**` = Personal recommendations
 
 ## Free Speech Social Media Alternatives
 
