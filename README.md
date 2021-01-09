@@ -26,6 +26,10 @@
 - [ProtonMail](https://protonmail.com/)** - 500 MB free, end-to-end encryption only metadata of sender/receiver, iOS/Android/Web
 - [Tutanota](https://tutanota.com/) - 1 GB free, encrypted, iOS/Android/Web/Linux/Windows/Mac
 
+### Twitter Alternatives (Will try these out soon at some point, test load, UI, etc)
+- [Mastodon](https://mastodon.online/about)
+- [Gab](https://gab.com/)
+
 ### Password Managers
 - [1password](https://1password.com/)** - password manager for family accounts
 
@@ -40,10 +44,6 @@
 - [Minds](https://www.minds.com/)
 - [MeWe](https://mewe.com/)
 - [Parler](https://parler.com/)
-
-### Twitter Alternatives
-- [Mastodon](https://mastodon.online/about)
-- [Gab](https://gab.com/)
 
 ### YouTube Alternatives
 - [Rumble](https://rumble.com/)
