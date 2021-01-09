@@ -29,6 +29,11 @@
 ### Password Managers
 - [1password](https://1password.com/)** - password manager for family accounts
 
+### VPN
+- [Comparison of various VPN Services](https://www.safetydetectives.com/best-vpns/)
+- NordVPN or SaferVPN if you want to get a full fledged service.
+- Brave has a few browser options such as TouchVPN.
+
 ## Free Speech Social Media Alternatives
 
 ### Facebook Alternatives
